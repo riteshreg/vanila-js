@@ -1,0 +1,30 @@
+{
+  "normal": [
+    {
+      "name": "red",
+      "color_code": "red"
+    },
+    {
+      "name": "blue",
+      "color_code": "blue"
+    },
+    {
+      "name": "green",
+      "color_code": "green"
+    }
+  ],
+  "hex":[
+    {
+        "name":"Indian Red",
+        "color_code":"#CD5C5C"
+    },
+    {
+        "name":"Dark Soloman",
+        "color_code":"#E9967A"
+    },
+    {
+        "name":"zdfsa",
+        "color_code":"#3A3B3C"
+    }
+  ]
+}
