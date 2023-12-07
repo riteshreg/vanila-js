@@ -1,0 +1,25 @@
+:root {
+  background-color: rgb(243, 241, 238);
+}
+body{
+  margin: 0;
+}
+
+#navbar_container {
+  padding: 2px 8px 2px 8px;
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#navbar_ul_list_page {
+  display: flex;
+  row-gap: "10px";
+  list-style-type: none;
+}
+
+#link {
+  text-decoration: none;
+  padding: 6px;
+}
