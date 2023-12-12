@@ -1,0 +1,16 @@
+#modal_container{
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  top: 0;
+  bottom: 0;
+}
+
+#modal_content{
+  background-color: antiquewhite;
+  height: 400px;
+  width: 800px;
+}
